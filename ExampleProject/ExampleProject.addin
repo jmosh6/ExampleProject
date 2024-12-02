@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Example Project</Name>
+		<Assembly>ExampleProject.dll</Assembly>
+		<AddInId>672852a4-0c30-4dc8-abd8-c259b532f699</AddInId>
+		<FullClassName>ExampleProject.App</FullClassName>
+		<VendorId>CEC_Solutions</VendorId>
+	</AddIn>
+</RevitAddIns>
